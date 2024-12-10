@@ -1,5 +1,4 @@
-# Advance-Programming
-# Steganography using Deep Learning
+# Advance-Programming# Steganography using Deep Learning
 
 This project demonstrates a deep learning-based approach to steganography, where a secret image is hidden within a cover image. The application uses a pre-trained deep learning model to encode and decode images.
 
@@ -35,26 +34,31 @@ Additionally, you need to install libgl1-mesa-glx for OpenCV to work correctly. 
 
 ```sh
 sudo apt-get install libgl1-mesa-glx
-
-##How to Run
+```
+## Requirements How to Run
 
 1. Clone the repository:
 
 ```sh
 git clone https://github.com/yourusername/Steganography-using-DL.git
 cd Steganography-using-DL
-
+```
 2. Install the required packages: 
+
+```sh
 pip install -r requirements.txt
+```
 
 3. Run the Streamlit application:
 
 ```sh
 streamlit run app.py
+```
 
 4. Open your web browser and go to http://localhost:8501 to access the application.
 
-##Usage
+## Usage
+
 1. Upload a cover image using the "Upload the Cover Image" file uploader.
 2. Upload a secret image using the "Upload the Secret Image" file uploader.
 3. The application will preprocess the images and encode the secret image into the cover image.
