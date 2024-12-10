@@ -29,7 +29,7 @@ You can install the required packages using the following command:
 
 ```sh
 pip install -r requirements.txt
-
+```
 Additionally, you need to install libgl1-mesa-glx for OpenCV to work correctly. You can install it using the following command:
 
 ```sh
