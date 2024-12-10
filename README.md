@@ -71,11 +71,11 @@ You can access the live demo of the application at the following URL:
 
 https://steganography-using-dl.streamlit.app/
 
-#Contributors
+# Contributors
 
 - Soumya Pal: Roll No: 231043, Email: soumya.cs23@duk.ac.in
 - Marcie M: Roll No: 231030, Email: marcie.cs23@duk.ac.in
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
